@@ -12,8 +12,6 @@ public class InputDemo {
         number = input.nextInt();
 
         System.out.println("Number is= "+number);
-         
-
 
     }
     
