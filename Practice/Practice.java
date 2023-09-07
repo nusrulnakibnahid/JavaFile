@@ -1,7 +1,4 @@
 package Practice;
-
-import java.util.Scanner;
-
 //Write a program to take two integer inputs from user and print sum and product of them.
 public class Practice {
 
