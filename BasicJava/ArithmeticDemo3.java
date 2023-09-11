@@ -1,10 +1,8 @@
 package BasicJava;
 
 import java.util.Scanner;
-//user input arithmetic demo
-public class ArithmeticDemo2 {
-
-    public static void main(String[] args) {
+public class ArithmeticDemo3 {
+     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
         int a,b,result;
@@ -24,8 +22,8 @@ public class ArithmeticDemo2 {
         result = a * b;
         System.out.println("Multiplication =  "+result);
 
-        result =  a / b;
-        System.out.println("Division =  "+result);
+        double result2 = (double) a / b;
+        System.out.println("Division =  "+result2);
 
         result = a % b;
         System.out.print("Remainder =  "+result);
