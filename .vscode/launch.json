@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FahrenheitDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.FahrenheitDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.CelsiusDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "CircleDemo",
             "request": "launch",
             "mainClass": "BasicJava.CircleDemo",
