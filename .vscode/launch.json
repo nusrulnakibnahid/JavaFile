@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AssignmentDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.AssignmentDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Assignment4",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Assignment.Product",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Product2",
+            "request": "launch",
+            "mainClass": "Assignment.Product2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Product3",
+            "request": "launch",
+            "mainClass": "Assignment.Product3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BioData",
+            "request": "launch",
+            "mainClass": "BasicJava.BioData",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BioData2",
+            "request": "launch",
+            "mainClass": "BasicJava.BioData2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "CommentDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.CommentDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo4",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "DataType.DataType",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DataType2",
+            "request": "launch",
+            "mainClass": "DataType.DataType2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ExecutionStep",
+            "request": "launch",
+            "mainClass": "ExecutionStep.ExecutionStep",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Format",
+            "request": "launch",
+            "mainClass": "FormatSpecifeir.Format",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice.Practice",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "Practice.Practice2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice3",
+            "request": "launch",
+            "mainClass": "Practice.Practice3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice4",
+            "request": "launch",
+            "mainClass": "Practice.Practice4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice5",
+            "request": "launch",
+            "mainClass": "Practice.Practice5",
+            "projectName": "Java (VS Code)_52becb56"
+        }
+    ]
+}
