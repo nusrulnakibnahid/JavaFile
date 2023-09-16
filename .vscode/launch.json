@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircleDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.CircleDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Practice6",
             "request": "launch",
             "mainClass": "Practice.Practice6",
