@@ -11,7 +11,7 @@ public class FahrenheitDemo {
         System.out.print("Enter temperature(fahrenheit): ");
         fahrenheit = input.nextDouble();
 
-        celsius = 5/9 * (fahrenheit - 32); //formula
+        celsius = 0.56 * (fahrenheit - 32); //formula(Celsius=5/9*(fahrenheit-32))
 
         System.out.print("Temperature in celsius: "+celsius);
     }
