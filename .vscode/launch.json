@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice6",
+            "request": "launch",
+            "mainClass": "Practice.Practice6",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "AssignmentDemo",
             "request": "launch",
             "mainClass": "BasicJava.AssignmentDemo",
