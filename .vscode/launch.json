@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TrapezoidArea",
+            "request": "launch",
+            "mainClass": "BasicJava.TrapezoidArea",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "RectangleArea",
             "request": "launch",
             "mainClass": "BasicJava.RectangleArea",
