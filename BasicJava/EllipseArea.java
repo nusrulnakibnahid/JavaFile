@@ -15,7 +15,7 @@ public class EllipseArea {
         y = input.nextDouble();
 
 
-        area = 3.1416 * x * y;  // Formula Area of Ellipse = pi * a *b 
+        area = 3.1416 * x * y;  // Formula Area of Ellipse = pi * a * b 
 
         System.out.print("Area of Ellipse is : " +area );
 
