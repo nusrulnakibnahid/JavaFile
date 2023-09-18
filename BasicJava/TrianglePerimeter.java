@@ -20,7 +20,7 @@ public class TrianglePerimeter {
 
         triangle = a + b + c;   //Formula (Triangle	a + b + c)
 
-        System.out.println("Perimeter of a triangle is : "  +triangle);
+        System.out.print("Perimeter of a triangle is : "  +triangle);
 
     }
 }
