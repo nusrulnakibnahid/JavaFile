@@ -1,7 +1,7 @@
 package BasicJava;
 
 import java.util.Scanner;
-
+//Area of Ellipse
 public class EllipseArea {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
