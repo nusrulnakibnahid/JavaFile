@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice7",
+            "request": "launch",
+            "mainClass": "Practice.Practice7",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "HexagonPerimeter",
             "request": "launch",
             "mainClass": "BasicJava.HexagonPerimeter",
