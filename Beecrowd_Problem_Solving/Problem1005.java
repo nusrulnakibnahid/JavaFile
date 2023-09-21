@@ -22,8 +22,7 @@ public class Problem1005 {
 
         grade = (float) ((A/11 *3.5) + (B/11 * 7.5));
 
-        System.out.println("Grade is: " + grade); 
-        
-
+        System.out.println("Grade is: " + grade);
+       
     }
 }
