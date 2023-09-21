@@ -1,9 +1,8 @@
 package Beecrowd_Problem_Solving;
-
-import java.io.IOException;
+//print (Hello World!)
 
 public class Hello {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         
         System.out.println("Hello World!");
  
