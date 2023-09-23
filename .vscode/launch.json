@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PostDecrement",
+            "request": "launch",
+            "mainClass": "BasicJava.PostDecrement",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PreDecrement",
+            "request": "launch",
+            "mainClass": "BasicJava.PreDecrement",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "PreIncrementDemo",
             "request": "launch",
             "mainClass": "BasicJava.PreIncrementDemo",
