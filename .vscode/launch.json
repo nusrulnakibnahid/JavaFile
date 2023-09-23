@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PreIncrementDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.PreIncrementDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.IncrementDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "UnaryPlusMinus",
             "request": "launch",
             "mainClass": "Practice.UnaryPlusMinus",
