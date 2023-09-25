@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ElseIfLadderDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.ElseIfLadderDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IfElseDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.IfElseDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IfDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.IfDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Problem1009",
             "request": "launch",
             "mainClass": "Beecrowd_Problem_Solving.Problem1009",
