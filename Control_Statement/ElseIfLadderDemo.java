@@ -19,7 +19,7 @@ public class ElseIfLadderDemo {
     }
 
     else{
-        System.out.print("Number is zero");
+        System.out.print("Number is zero"); //if input(num = 0),than the output shows (Number is zero)
     }
 
 
