@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Grading",
+            "request": "launch",
+            "mainClass": "Practice.Grading",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "EmployeeBonus",
             "request": "launch",
             "mainClass": "Practice.EmployeeBonus",
