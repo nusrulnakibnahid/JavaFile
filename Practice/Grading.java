@@ -14,7 +14,7 @@ public class Grading {
         Scanner input = new Scanner(System.in);
 
         int marks;
-        System.out.print("Enter Student marks:");
+        System.out.print("Enter Student marks: ");
         marks = input.nextInt();
 
         if(marks<25){
