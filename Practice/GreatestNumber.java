@@ -1,7 +1,7 @@
 package Practice;
 
 import java.util.Scanner;
-
+//Take two int values from user and print greatest among them.
 public class GreatestNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
