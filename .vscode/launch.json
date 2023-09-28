@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VowelConsonant",
+            "request": "launch",
+            "mainClass": "Practice.VowelConsonant",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "VowelConsonantDemo",
             "request": "launch",
             "mainClass": "BasicJava.VowelConsonantDemo",
