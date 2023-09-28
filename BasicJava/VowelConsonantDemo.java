@@ -30,7 +30,7 @@ public class VowelConsonantDemo {
         }
 
         else{
-            System.out.print("Not Vowel ");
+            System.out.print("NConsonent ");
         }
 
     }
