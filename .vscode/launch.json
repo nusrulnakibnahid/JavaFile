@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOdd_Demo",
+            "request": "launch",
+            "mainClass": "BasicJava.EvenOdd_Demo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.EvenOddDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Grading",
             "request": "launch",
             "mainClass": "Practice.Grading",
