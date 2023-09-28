@@ -7,7 +7,7 @@ public class VowelConsonantDemo {
         Scanner input = new Scanner(System.in);
 
         char ch;
-        System.out.print("Enter any letter: ");
+        System.out.print("Enter any letter: "); //use smaller latter
         ch = input.next().charAt(0); /*here,charAt(0) means if first letter is vowel than output shows "vowel"
                                             if here,charAt(1) that means if second letter is vowel than output shows "vowel*/
         if(ch == 'a'){
@@ -30,7 +30,7 @@ public class VowelConsonantDemo {
         }
 
         else{
-            System.out.print("NConsonant ");
+            System.out.print("Consonant ");
         }
 
     }
