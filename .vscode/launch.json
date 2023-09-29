@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CapitalSmall",
+            "request": "launch",
+            "mainClass": "BasicJava.CapitalSmall",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "PositiveNegativeZero",
             "request": "launch",
             "mainClass": "BasicJava.PositiveNegativeZero",
