@@ -1,7 +1,7 @@
 package BasicJava;
 
 import java.util.Scanner;
-
+//find positive,negative or zero value
 public class PositiveNegativeZero {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
