@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumMinimum",
+            "request": "launch",
+            "mainClass": "Practice.MaximumMinimum",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MaximumMinimum",
+            "request": "launch",
+            "mainClass": "BasicJava.MaximumMinimum",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "CapitalSmall",
             "request": "launch",
             "mainClass": "BasicJava.CapitalSmall",
