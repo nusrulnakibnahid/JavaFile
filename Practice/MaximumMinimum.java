@@ -15,7 +15,8 @@ public class MaximumMinimum {
         b = input.nextInt();
         System.out.print("Enter num c: ");
         c = input.nextInt();
-
+        
+        //maximum number
         if(a>b && a>c){
             max = a;
         }
@@ -26,6 +27,7 @@ public class MaximumMinimum {
         else{
             max = c;
         }
+        //minimum number
         if(a<b && a<c){
             min = a;
         }
@@ -36,6 +38,7 @@ public class MaximumMinimum {
         else{
             min = c;
         }
+        System.out.println("You entered: a=" + a + ", b=" + b + ", c=" + c);
         System.out.println("Maximum Number: " + max);
         System.out.println("Minimum Number: " + min);
 
