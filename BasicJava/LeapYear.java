@@ -2,7 +2,7 @@ package BasicJava;
 
 import java.util.Scanner;
 
-public class LeepYear {
+public class LeapYear {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -11,7 +11,7 @@ public class LeepYear {
         year = input.nextInt();
 
         if(year % 4 == 0 && year % 100 != 0 || year % 400 == 0){
-            System.out.print("Leep year");
+            System.out.print("Leap year");
         }
 
         else{
