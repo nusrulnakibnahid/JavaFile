@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LogicalAndDemo",
+            "request": "launch",
+            "mainClass": "LogicalOperator.LogicalAndDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "LogicalORDemo",
             "request": "launch",
             "mainClass": "LogicalOperator.LogicalORDemo",
