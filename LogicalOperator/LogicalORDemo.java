@@ -15,7 +15,7 @@ public class LogicalORDemo {
         }
 
         else {
-            System.out.print("Not vowel");
+            System.out.print("Consonant");
         }
 
     }
