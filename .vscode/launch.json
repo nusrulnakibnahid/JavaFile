@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Problem1011",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1011",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Problem1010",
             "request": "launch",
             "mainClass": "Beecrowd_Problem_Solving.Problem1010",
