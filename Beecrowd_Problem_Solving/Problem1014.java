@@ -14,7 +14,7 @@ public class Problem1014 {
 
        average = a/b ;
 
-       System.out.printf("car's average consumption:%.2f km/l\n", +average);
+       System.out.printf("Car's average consumption:%.2f km/l\n", +average);
 
 
     }
