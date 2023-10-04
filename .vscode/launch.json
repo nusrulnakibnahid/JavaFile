@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DivisibleNumber",
+            "request": "launch",
+            "mainClass": "Practice.DivisibleNumber",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "SameNumOrNot",
             "request": "launch",
             "mainClass": "Practice.SameNumOrNot",
