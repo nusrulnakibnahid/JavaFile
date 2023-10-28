@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment9",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment9",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "SwitchDemo",
             "request": "launch",
             "mainClass": "Control_Statement.Selection.SwitchDemo",
