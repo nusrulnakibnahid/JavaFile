@@ -1,9 +1,9 @@
-package Control_Statement;
+package Control_Statement.Selection;
 
 import java.util.Scanner;
 
 public class IfElseDemo {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         int num;

@@ -1,4 +1,4 @@
-package Control_Statement;
+package Control_Statement.Selection;
 
 import java.util.Scanner;
 
