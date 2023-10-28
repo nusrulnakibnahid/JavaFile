@@ -1,7 +1,7 @@
 package Control_Statement.Selection;
 
 import java.util.Scanner;
-//enter digit and show the number by using switch case
+//Enter digit and show the spelling by using switch case
 public class SwitchDemo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
