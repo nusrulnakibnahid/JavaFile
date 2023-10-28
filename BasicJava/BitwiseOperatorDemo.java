@@ -1,7 +1,7 @@
 package BasicJava;
 
 import java.util.Scanner;
-
+//Bitwise AND(&),OR(|),EXOR(^) demo
 public class BitwiseOperatorDemo {
     public static void main(String[] args) {
         Scanner input =  new Scanner(System.in);
