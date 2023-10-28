@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConditionalDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ConditionalDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Assignment9",
             "request": "launch",
             "mainClass": "Assignment.Assignment9",
