@@ -6,7 +6,7 @@ public class WhileLoopDemo {
         int i = 1;
         while(i<=50){
             System.out.println(i+" Hi Coder ");
-            i++;
+            i++; //increment 
         }
 
         int j =1; //odd number
@@ -20,6 +20,13 @@ public class WhileLoopDemo {
             System.out.println(k);
             k =k+2;
         }
+
+        int l =50;
+        while(l>=1){
+            System.out.println(l);
+            l--; //decrement 
+        }
+
 
 
     }
