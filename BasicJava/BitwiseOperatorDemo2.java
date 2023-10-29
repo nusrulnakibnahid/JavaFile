@@ -11,7 +11,7 @@ public class BitwiseOperatorDemo2 {
         a = input.nextInt();
 
         b = a>>3;
-        System.out.println("a>> = "+b);
+        System.out.println("a>> = "+b); 
 
         b = a<<3;
         System.out.println("a<< = "+b);

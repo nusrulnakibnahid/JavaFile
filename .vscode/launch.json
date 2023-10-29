@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MathClassDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.MathClassDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MathClassDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.MathClassDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "BitwiseOperatorDemo2",
             "request": "launch",
             "mainClass": "BasicJava.BitwiseOperatorDemo2",
