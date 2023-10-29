@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileLoopDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.WhileLoopDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "ForLoopDemo2",
             "request": "launch",
             "mainClass": "Control_Statement.Looping.ForLoopDemo2",
