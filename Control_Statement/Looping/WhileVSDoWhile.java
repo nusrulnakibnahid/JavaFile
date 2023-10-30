@@ -32,8 +32,7 @@ public class WhileVSDoWhile {
             a++;
         }
 
-        /*do-while loop using user input(do-while loop always print then check the condition.
-        That's why if condition is false but do while loop print the output 1 time) */
+        //do-while loop using user input(The do-while loop execute at least one time even if the condition is false) 
         int b;
         System.out.print("Enter b:");        
         b = input.nextInt();
