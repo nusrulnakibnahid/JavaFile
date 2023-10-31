@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoopPractice",
+            "request": "launch",
+            "mainClass": "Practice.ForLoopPractice",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SubUseForLoop",
+            "request": "launch",
+            "mainClass": "Practice.SubUseForLoop",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Assignment10",
             "request": "launch",
             "mainClass": "Assignment.Assignment10",
