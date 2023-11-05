@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContinueStatementExample2",
+            "request": "launch",
+            "mainClass": "Control_Statement.Jump.ContinueStatementExample2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatementExample1",
+            "request": "launch",
+            "mainClass": "Control_Statement.Jump.ContinueStatementExample1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "BreakExample1",
             "request": "launch",
             "mainClass": "Control_Statement.Jump.BreakExample1",
