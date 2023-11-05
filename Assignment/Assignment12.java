@@ -13,8 +13,11 @@ public class Assignment12 {
         n = input.nextInt();
 
         for(int i=m; i<=n; i=i+2) {
-            System.out.println(i);
-            sum = sum+i;
+            if(i%2!=0){
+                sum = sum+i;
+                System.out.println(i);
+            }
+
         }
 
         System.out.print("Sum:"+sum);
