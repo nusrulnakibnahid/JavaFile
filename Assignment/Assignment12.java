@@ -16,7 +16,7 @@ public class Assignment12 {
             System.out.println(i);
             sum = sum+i;
         }
-
+        
         System.out.print("Sum:"+sum);
 
     }
