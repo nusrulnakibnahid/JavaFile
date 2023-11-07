@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhileLoop4",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop4",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop4",
+            "request": "launch",
+            "mainClass": "BasicJava.ForLoop4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop3",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop3",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop3",
+            "request": "launch",
+            "mainClass": "BasicJava.ForLoop3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop2",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop2",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop2",
+            "request": "launch",
+            "mainClass": "BasicJava.ForLoop2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop1",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop1",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Loop1",
+            "request": "launch",
+            "mainClass": "BasicJava.Loop1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Assignment12",
             "request": "launch",
             "mainClass": "Assignment.Assignment12",
