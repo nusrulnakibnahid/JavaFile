@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Series4",
+            "request": "launch",
+            "mainClass": "Assignment.Series4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series3",
+            "request": "launch",
+            "mainClass": "Assignment.Series3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series2",
+            "request": "launch",
+            "mainClass": "BasicJava.Series2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series1",
+            "request": "launch",
+            "mainClass": "BasicJava.Series1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "DoWhileLoop4",
             "request": "launch",
             "mainClass": "BasicJava.DoWhileLoop4",
