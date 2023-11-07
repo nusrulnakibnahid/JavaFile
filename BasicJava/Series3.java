@@ -1,4 +1,4 @@
-package Assignment;
+package BasicJava;
 
 import java.util.Scanner;
 //1.5+2.5+3.5+4.5+........+n = ?

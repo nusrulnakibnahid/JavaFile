@@ -1,4 +1,4 @@
-package Assignment;
+package BasicJava;
 
 import java.util.Scanner;
 //1^2+2^2+3^2+4^2+........+n = ?
