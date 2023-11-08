@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TotalMarkPersentage",
+            "request": "launch",
+            "mainClass": "Practice.TotalMarkPersentage",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "TimeTableDemo2",
             "request": "launch",
             "mainClass": "BasicJava.TimeTableDemo2",
