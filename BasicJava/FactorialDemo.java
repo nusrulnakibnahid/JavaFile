@@ -16,7 +16,7 @@ public class FactorialDemo {
 
         }
 
-        System.out.println("Factorial of "+num+ "=" +fact);  //(+num+), means here show the exact number we put in input 
+        System.out.println("Factorial of "+num+ "=" +fact);  //(+num+), means here show the exact number we write in input 
 
     }
 }
