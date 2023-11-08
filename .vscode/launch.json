@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.FactorialDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Series9",
             "request": "launch",
             "mainClass": "BasicJava.Series9",
