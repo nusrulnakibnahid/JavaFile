@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Series9",
+            "request": "launch",
+            "mainClass": "BasicJava.Series9",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series8",
+            "request": "launch",
+            "mainClass": "BasicJava.Series8",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series7",
+            "request": "launch",
+            "mainClass": "BasicJava.Series7",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series6",
+            "request": "launch",
+            "mainClass": "BasicJava.Series6",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series5",
+            "request": "launch",
+            "mainClass": "BasicJava.Series5",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Series4",
             "request": "launch",
             "mainClass": "Assignment.Series4",
