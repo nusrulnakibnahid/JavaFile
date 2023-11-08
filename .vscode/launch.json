@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TimeTableDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.TimeTableDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TimeTableDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.TimeTableDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "FactorialDemo",
             "request": "launch",
             "mainClass": "BasicJava.FactorialDemo",
