@@ -1,7 +1,7 @@
 package BasicJava;
 
 import java.util.Scanner;
-
+//2,3,5,7,11,13,.........(prime number)
 public class PrimeNumberDemo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
