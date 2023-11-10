@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FibonacciSeriesDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.FibonacciSeriesDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberdemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberdemo3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberDemo",
             "request": "launch",
             "mainClass": "BasicJava.PrimeNumberDemo",
