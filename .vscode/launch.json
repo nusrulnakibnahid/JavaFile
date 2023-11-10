@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment13",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment13",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "FibonacciSeriesDemo",
             "request": "launch",
             "mainClass": "BasicJava.FibonacciSeriesDemo",
