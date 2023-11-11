@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseNumberDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ReverseNumberDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.SumOfDigitDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "Assignment13",
             "request": "launch",
             "mainClass": "Assignment.Assignment13",
