@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment14",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment14",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "PalindromeDemo",
             "request": "launch",
             "mainClass": "BasicJava.PalindromeDemo",
