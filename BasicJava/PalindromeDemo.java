@@ -19,7 +19,7 @@ public class PalindromeDemo {
             temp = temp/10;
         }
 
-        System.out.println("Answer:"+sum);
+        System.out.println("Reverse Number:"+sum);
 
         if(num == sum){
             System.out.println("Palindrome Number");
