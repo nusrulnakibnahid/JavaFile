@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternDemo1",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
             "name": "UserPassCheck",
             "request": "launch",
             "mainClass": "Practice.UserPassCheck",
