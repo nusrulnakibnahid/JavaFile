@@ -1,6 +1,6 @@
 package Assignment;
 
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class Assignment4 {
 

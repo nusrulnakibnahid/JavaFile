@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "BasicJava.Hello",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Assignment17",
             "request": "launch",
             "mainClass": "Assignment.Assignment17",
