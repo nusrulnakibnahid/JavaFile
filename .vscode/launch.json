@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Hello",
             "request": "launch",
+            "mainClass": "Revision.Hello",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
             "mainClass": "BasicJava.Hello",
             "projectName": "Java (VS Code)_d94485f5"
         },
