@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "Revision.product",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "Revision.Hello",
