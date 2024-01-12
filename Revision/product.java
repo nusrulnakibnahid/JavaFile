@@ -7,7 +7,7 @@ package Revision;
  * print the following data in main method
 
 
- id: 101,
+id: 101,
 title: iphone15,
 price: 1895 euros,
 description: perfect product with best image quality,
@@ -21,6 +21,7 @@ public class product {
         System.out.println("price: 1895 euros");
         System.out.println("description: perfect product with best image quality");
         System.out.println("category: phone");
+        
 
     }
 
