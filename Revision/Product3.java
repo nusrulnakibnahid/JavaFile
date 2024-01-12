@@ -15,9 +15,7 @@ public class Product3 {
 
         Scanner input = new Scanner(System.in);
 
-         
-        String id,price,title, description, category;
-        
+        String id, price, title, description, category;
 
         System.out.print("Enter id: ");
         id = input.nextLine();
@@ -33,6 +31,12 @@ public class Product3 {
 
         System.out.print("Price: ");
         price = input.nextLine();
+
+        System.out.println("Id is:" + id);
+        System.out.println("Title is " + title);
+        System.out.println("Description:" + description);
+        System.out.println("Category is:");
+        System.out.println("Price is:" + price);
 
     }
 }
