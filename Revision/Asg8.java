@@ -27,6 +27,15 @@ public class Asg8 {
 
         }
 
+        else if(c == 'y' && d == 'Y'){
+            System.out.println("*you are eligible to for the job interview*");
+
+        }
+
+        else if(c == 'Y' && d == 'y'){
+            System.out.println("*you are eligible to for the job interview*");
+        }
+
         else {
             System.out.println("Sorry. you are not eligible to for the job interview");
 
