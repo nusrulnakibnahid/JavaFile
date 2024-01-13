@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "Revision.IfElse",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "IfDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Selection.IfDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "IncrementDecrement",
             "request": "launch",
             "mainClass": "Practice.IncrementDecrement",
