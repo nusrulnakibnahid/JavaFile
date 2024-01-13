@@ -19,40 +19,8 @@ public class Asg6 {
             System.out.println("Number is 0");
         }
 
-        else if (num == 1){
-            System.out.println("Valid digit");
-        }  
-
-        else if (num == 2){
-            System.out.println("Valid digit");
-        }  
-
-        else if (num == 3){
-            System.out.println("Valid digit");
-        }  
-        else if (num == 4){
-            System.out.println("Valid digit");
-        }  
-        
-        else if (num == 5){
-            System.out.println("Valid digit");
-        }
-
-        else if (num == 6){
-            System.out.println("Valid digit");
-        }
-
-        else if (num == 7){
-            System.out.println("Valid digit");
-        }
-
-        else if (num == 8){
-            System.out.println("Valid digit");
-        }
-
-        else if (num == 9){
-
-            System.out.println("Valid digit");
+        else if (num == 1 || num <=9){
+            System.out.println("Valid Digit");
         }
 
         else {
