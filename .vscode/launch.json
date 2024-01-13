@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UnaryPlusMinus",
+            "request": "launch",
+            "mainClass": "Revision.UnaryPlusMinus",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusMinus",
+            "request": "launch",
+            "mainClass": "Practice.UnaryPlusMinus",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.UnaryPlusDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "CelsiusToFAhrenheit",
             "request": "launch",
             "mainClass": "Revision.CelsiusToFAhrenheit",
