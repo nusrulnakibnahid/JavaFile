@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Asg8",
+            "request": "launch",
+            "mainClass": "Revision.Asg8",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg7",
+            "request": "launch",
+            "mainClass": "Revision.Asg7",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "VowelConsonant",
             "request": "launch",
             "mainClass": "Practice.VowelConsonant",
