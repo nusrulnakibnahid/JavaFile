@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOddCheck",
+            "request": "launch",
+            "mainClass": "Revision.EvenOddCheck",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "IfElse",
             "request": "launch",
             "mainClass": "Revision.IfElse",
