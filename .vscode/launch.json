@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IncrementDecrement",
+            "request": "launch",
+            "mainClass": "Practice.IncrementDecrement",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "UnaryPlusMinus",
             "request": "launch",
             "mainClass": "Revision.UnaryPlusMinus",
