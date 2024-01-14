@@ -7,8 +7,10 @@ public class ConditionalDemo {
         Scanner input = new Scanner (System.in);
 
         int num1,num2,large;
-        System.out.print("Enter two numbers:");
+        System.out.print("Enter number one:");
         num1 = input.nextInt();
+
+        System.out.print("Enter number two:");
         num2 = input.nextInt();
 
         large = (num1>num2)? num1 : num2;
