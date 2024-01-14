@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "Revision.ForLoop",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ForLoopDemo",
             "request": "launch",
             "mainClass": "Control_Statement.Looping.ForLoopDemo",
