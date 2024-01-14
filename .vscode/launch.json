@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoopDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.ForLoopDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "MathClassDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.MathClassDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperatorDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.BitwiseOperatorDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ConditionalDemo",
             "request": "launch",
             "mainClass": "BasicJava.ConditionalDemo",
