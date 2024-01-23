@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContinueEx",
+            "request": "launch",
+            "mainClass": "Revision.ContinueEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Continue",
             "request": "launch",
             "mainClass": "Revision.Continue",
