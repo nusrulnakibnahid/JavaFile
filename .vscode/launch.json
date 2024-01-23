@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BreakEx",
+            "request": "launch",
+            "mainClass": "Revision.BreakEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Revision.Break",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopex2",
+            "request": "launch",
+            "mainClass": "Revision.ForLoopex2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopex",
+            "request": "launch",
+            "mainClass": "Revision.ForLoopex",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg10",
+            "request": "launch",
+            "mainClass": "Revision.Asg10",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "DoWhileLoop",
             "request": "launch",
             "mainClass": "Revision.DoWhileLoop",
