@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Asg11",
+            "request": "launch",
+            "mainClass": "Revision.Asg11",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ContinueBreakEx",
             "request": "launch",
             "mainClass": "Revision.ContinueBreakEx",
