@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeriesEx2",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEx1",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Sum1to10",
             "request": "launch",
             "mainClass": "Revision.Sum1to10",
