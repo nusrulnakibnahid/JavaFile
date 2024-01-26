@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum1to10",
+            "request": "launch",
+            "mainClass": "Revision.Sum1to10",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ContinueEx2",
             "request": "launch",
             "mainClass": "Revision.ContinueEx2",
