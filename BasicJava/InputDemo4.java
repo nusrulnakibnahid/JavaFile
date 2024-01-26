@@ -9,7 +9,7 @@ public class InputDemo4 {
         double number;
 
         System.out.print("Enter any number = ");
-        number = input.nextDouble();
+        number = input.nextDouble(); 
 
         System.out.print("Number is = "+number);
     }

@@ -7,7 +7,7 @@ public class InputDemo2 {
         Scanner input = new Scanner(System.in);
 
         String name;
-
+ 
         name = "Nusrul Nakib Nahid";
 
         System.out.println("Name is= "+name);

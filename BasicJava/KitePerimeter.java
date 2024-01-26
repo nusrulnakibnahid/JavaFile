@@ -11,7 +11,7 @@ public class KitePerimeter {
 
         System.out.print("Enter x: " ); 
         x = input.nextDouble(); 
-
+ 
         System.out.print("Enter y: " ); 
         y = input.nextDouble();  
         

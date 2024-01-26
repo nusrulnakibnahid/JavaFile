@@ -12,7 +12,7 @@ public class MathClassDemo {
         x = input.nextInt();
         System.out.print("Enter y: ");
         y = input.nextInt();
-
+ 
         int max = Math.max(x,y);
         int min = Math.min(x,y);
 
