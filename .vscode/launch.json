@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeriesEx6",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "SeriesEX5",
             "request": "launch",
             "mainClass": "Revision.SeriesEX5",
