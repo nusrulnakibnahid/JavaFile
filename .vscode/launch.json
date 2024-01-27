@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TimeTableEx2",
+            "request": "launch",
+            "mainClass": "Revision.TimeTableEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "PrimeEx",
             "request": "launch",
             "mainClass": "Revision.PrimeEx",
