@@ -6,7 +6,7 @@ public class PrimeEx3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int m, n, count = 0,total_prime=0;
+        int m, n, count = 0, total_prime = 0;
         System.out.print("Enter first number:");
         m = input.nextInt();
         System.out.print("Enter second number:");
@@ -23,13 +23,11 @@ public class PrimeEx3 {
             }
             if (count == 0) {
                 System.out.println(i);
-                total_prime++; 
+                total_prime++;
             }
             count = 0;
 
-
-
         }
-        System.out.println("Total prime Number:"+total_prime);
+        System.out.println("Total prime Number:" + total_prime);
     }
 }
