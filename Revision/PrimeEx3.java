@@ -23,7 +23,7 @@ public class PrimeEx3 {
             }
             if (count == 0) {
                 System.out.println(i);
-                total_prime++;
+                total_prime++; 
             }
             count = 0;
 
