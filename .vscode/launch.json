@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumberdemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberdemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PrimeEx3",
+            "request": "launch",
+            "mainClass": "Revision.PrimeEx3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "PrimeEx2",
             "request": "launch",
             "mainClass": "Revision.PrimeEx2",
