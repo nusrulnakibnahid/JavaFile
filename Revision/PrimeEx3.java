@@ -19,10 +19,11 @@ public class PrimeEx3 {
                     count++;
                     break;
 
-                }
+                } 
             }
             if (count == 0) {
                 System.out.println(i);
+            
                 total_prime++;
             }
             count = 0;
