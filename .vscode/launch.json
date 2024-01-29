@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Asg13",
+            "request": "launch",
+            "mainClass": "Revision.Asg13",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment13",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment13",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "FibonacciEx",
             "request": "launch",
             "mainClass": "Revision.FibonacciEx",
