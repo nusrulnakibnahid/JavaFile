@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Asg14",
+            "request": "launch",
+            "mainClass": "Revision.Asg14",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment14",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment14",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "PalindromeNumEx",
             "request": "launch",
             "mainClass": "Revision.PalindromeNumEx",
