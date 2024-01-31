@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseNumEx",
+            "request": "launch",
+            "mainClass": "Revision.ReverseNumEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "SumDigitEx",
             "request": "launch",
             "mainClass": "Revision.SumDigitEx",
