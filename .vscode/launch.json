@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeNumEx",
+            "request": "launch",
+            "mainClass": "Revision.PalindromeNumEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ReverseNumEx",
             "request": "launch",
             "mainClass": "Revision.ReverseNumEx",
