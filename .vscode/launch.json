@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArmstrongEx",
+            "request": "launch",
+            "mainClass": "Revision.ArmstrongEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Asg14",
             "request": "launch",
             "mainClass": "Revision.Asg14",

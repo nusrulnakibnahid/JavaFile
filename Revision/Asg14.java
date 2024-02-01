@@ -24,10 +24,10 @@ public class Asg14 {
 
                 r = temp % 10;
                 sum = sum * 10 + r;
-                temp = temp / 10;  
+                temp = temp / 10;
 
             }
-            
+
             if (sum == i) {
                 System.out.println(" " + sum);
                 totalPalindromeNumber++;
