@@ -21,7 +21,7 @@ public class Assignment15 {
             while (temp != 0) {
 
                 r = temp % 10;
-                sum = sum * 10 + r;
+                sum = sum + r*r*r;
                 temp = temp / 10;
 
             }

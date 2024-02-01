@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment15",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment15",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg15",
+            "request": "launch",
+            "mainClass": "Revision.Asg15",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ArmstrongEx",
             "request": "launch",
             "mainClass": "Revision.ArmstrongEx",
