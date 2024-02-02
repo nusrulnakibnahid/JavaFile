@@ -2,7 +2,7 @@ package Revision;
 
 import java.util.Scanner;
 
-public class PatternEx3 {
+public class PatternEx {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -13,9 +13,12 @@ public class PatternEx3 {
         for (int row = 1; row <= n; row++) {
 
             for (int col = 1; col <= row; col++) {
-                System.out.print(" " +row);
+                System.out.print(" " + col % 2);
             }
             System.out.println();
+
         }
+
     }
+
 }
