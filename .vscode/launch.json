@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternEx3",
+            "request": "launch",
+            "mainClass": "Revision.PatternEx3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "PatternEx2",
             "request": "launch",
             "mainClass": "Revision.PatternEx2",
