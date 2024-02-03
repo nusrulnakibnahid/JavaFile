@@ -1,4 +1,4 @@
-package BasicJava;
+package BasicJava.Pattern_Code;
 
 import java.util.Scanner;
 
