@@ -10,7 +10,7 @@ public class PatternDemo8 {
         n = input.nextInt();
 
         for (int col = 1; col <= n; col++) {
-            char ch = 'A';
+            char ch = 'A';  //character pattern 
             for (int row = 1; row <= col; row++) {
                 System.out.print(ch + " ");
                 ch++;
@@ -20,7 +20,7 @@ public class PatternDemo8 {
         
 
         for (int col = n - 1; col >= 1; col--) {
-            char ch = 'A';
+            char ch = 'A'; //character pattern 
             for (int row = 1; row <= col; row++) {
                 System.out.print(ch + " ");
                 ch++;
