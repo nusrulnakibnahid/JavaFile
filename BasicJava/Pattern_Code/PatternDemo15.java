@@ -13,7 +13,7 @@ public class PatternDemo15 {
         for (int row = 1; row <= n; row++) {
             for (int col = 1; col <= n; col++) {
                 if (row == 1 || row == n || col == 1 || col == n) {
-                    System.out.print("A");
+                    System.out.print("*");
                 } else {
                     System.out.print(" ");
                 }
