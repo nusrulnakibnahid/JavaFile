@@ -7,7 +7,7 @@ public class PatternDemo15 {
         Scanner input = new Scanner(System.in);
 
         int n; 
-        System.out.println("Enter line number:");
+        System.out.print("Enter line number:");
         n = input.nextInt(); 
 
         for (int row = 1; row <= n; row++) {
