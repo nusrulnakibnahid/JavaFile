@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternDemo14",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo14",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "PatternDemo13",
             "request": "launch",
             "mainClass": "BasicJava.Pattern_Code.PatternDemo13",
