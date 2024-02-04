@@ -18,7 +18,7 @@ public class PatternDemo15 {
                     System.out.print(" ");
                 }
             }
-            System.out.println();
+            System.out.println();  
         }
     }
 }
