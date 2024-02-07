@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubEx",
+            "request": "launch",
+            "mainClass": "Revision.SubEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "SumEx",
             "request": "launch",
             "mainClass": "Revision.SumEx",
