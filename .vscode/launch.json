@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplicatioEx",
+            "request": "launch",
+            "mainClass": "Revision.MultiplicatioEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "AttendanceSystem",
+            "request": "launch",
+            "mainClass": "Revision.AttendanceSystem",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ArrayDemo1",
             "request": "launch",
             "mainClass": "BasicJava.Array.ArrayDemo1",
