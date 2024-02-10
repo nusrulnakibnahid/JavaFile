@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DivisionEx",
+            "request": "launch",
+            "mainClass": "Revision.DivisionEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "MultiplicatioEx",
             "request": "launch",
             "mainClass": "Revision.MultiplicatioEx",
