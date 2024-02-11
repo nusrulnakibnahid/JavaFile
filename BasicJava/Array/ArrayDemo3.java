@@ -26,7 +26,7 @@ public class ArrayDemo3 {
         System.out.println("Total sum: "+sum);
         
         //Average of sum
-        avg = sum / number.length;
+        avg = sum / number.length; //"number.length" is total length of the variable (double[] number = new double[5];)
         System.out.print("Average is:"+avg);
 
         
