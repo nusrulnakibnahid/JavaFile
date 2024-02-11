@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ArrayDemo2",
             "request": "launch",
             "mainClass": "BasicJava.Array.ArrayDemo2",
