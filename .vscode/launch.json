@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemainderEx",
+            "request": "launch",
+            "mainClass": "Revision.RemainderEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "ArrayDemo3",
             "request": "launch",
             "mainClass": "BasicJava.Array.ArrayDemo3",
