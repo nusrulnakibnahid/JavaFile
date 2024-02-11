@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "DivisionEx",
             "request": "launch",
             "mainClass": "Revision.DivisionEx",
