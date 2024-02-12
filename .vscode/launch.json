@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NameRepeatEx",
+            "request": "launch",
+            "mainClass": "Revision.NameRepeatEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "RemainderEx",
             "request": "launch",
             "mainClass": "Revision.RemainderEx",
