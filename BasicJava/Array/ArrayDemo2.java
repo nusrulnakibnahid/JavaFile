@@ -20,7 +20,7 @@ public class ArrayDemo2 {
         sum = number[0] + number[1] + number[2] + number[3] + number[4];
         System.out.println("Total: " + sum);
 
-        avg = sum / 5;
+        avg = sum / 5;  //or using (avg = sum /number.length) this method
         System.out.print("Average: " + avg);
 
     }
