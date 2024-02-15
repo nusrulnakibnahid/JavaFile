@@ -19,7 +19,14 @@ public class Assignment18 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        String[] day = new String[7];
+        String[] day = new String[7];            /* if we  print this line- String[] day = {"Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday",}
+                                                 than we can't need to print This line- day[0] = "Saturday";
+                                                                                        day[1] = "Sunday";
+                                                                                        day[2] = "Monday";
+                                                                                        day[3] = "Tuesday";
+                                                                                        day[4] = "Wednesday";
+                                                                                        day[5] = "Thursday";
+                                                                                        day[6] = "Friday"; */
 
         day[0] = "Saturday";
         day[1] = "Sunday";
