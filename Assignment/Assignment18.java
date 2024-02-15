@@ -16,7 +16,7 @@ import java.util.Scanner;
  * output-> Monday
  */
 public class Assignment18 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner input = new Scanner(System.in);
 
         String[] day = new String[7];  /*
