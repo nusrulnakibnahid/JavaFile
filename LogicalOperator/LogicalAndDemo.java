@@ -7,7 +7,7 @@ public class LogicalAndDemo {
         Scanner input = new Scanner(System.in);
 
         char ch;
-        System.out.print("Enter any letter:");
+        System.out.print("Enter any letter:"); 
         ch = input.next().charAt(0);   /*char(0) means if first letter is capital or 
                                              smaller output shows capital letter/small letter  */
 

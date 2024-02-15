@@ -5,7 +5,7 @@ public class DataType {
 
     boolean b;
     char c;
-    short s;
+    short s; 
     int i;
     float f;
     double d;

@@ -6,7 +6,7 @@ public class DataType2 {
         boolean b = false;
         char c = 'A';
         short s = 32655;
-        int i = 20;
+        int i = 20; 
         float f = 20.45f;
         double d = 39.980;
     

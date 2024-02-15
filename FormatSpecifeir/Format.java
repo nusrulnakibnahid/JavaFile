@@ -7,7 +7,7 @@ public class Format {
         char c = 'a';
         short s = 32677;
         int i = 12657;
-        float f = 10.2f;
+        float f = 10.2f; 
         double d = 57.9;
     
 
