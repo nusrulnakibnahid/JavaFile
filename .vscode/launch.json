@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LogicalORDemo",
+            "request": "launch",
+            "mainClass": "LogicalOperator.LogicalORDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Format",
+            "request": "launch",
+            "mainClass": "FormatSpecifeir.Format",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Assignment18",
             "request": "launch",
             "mainClass": "Assignment.Assignment18",

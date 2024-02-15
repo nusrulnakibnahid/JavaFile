@@ -19,14 +19,17 @@ public class Assignment18 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        String[] day = new String[7];            /* if we  print this line- String[] day = {"Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday",}
-                                                 than we can't need to print This line- day[0] = "Saturday";
-                                                                                        day[1] = "Sunday";
-                                                                                        day[2] = "Monday";
-                                                                                        day[3] = "Tuesday";
-                                                                                        day[4] = "Wednesday";
-                                                                                        day[5] = "Thursday";
-                                                                                        day[6] = "Friday"; */
+        String[] day = new String[7];  /*
+                                        if we print this line- String[] day = {"Saturday", "Sunday", "Monday",
+                                        "Tuesday", "Wednesday", "Thursday",}
+                                        than we can't need to print This line- day[0] = "Saturday";
+                                        day[1] = "Sunday";
+                                        day[2] = "Monday";
+                                        day[3] = "Tuesday";
+                                        day[4] = "Wednesday";
+                                        day[5] = "Thursday";
+                                        day[6] = "Friday";
+                                       */
 
         day[0] = "Saturday";
         day[1] = "Sunday";
@@ -40,8 +43,8 @@ public class Assignment18 {
         int n = input.nextInt();
 
         for (int i = 0; i < day.length; i++) {
-            if (i == n)//If the loop matches the value of 'n' then each day name will be printed.
-                System.out.println("The day is: " + day[i]); 
+            if (i == n)// If the loop matches the value of 'n' then each day name will be printed.
+                System.out.println("The day is: " + day[i]);
         }
 
     }
