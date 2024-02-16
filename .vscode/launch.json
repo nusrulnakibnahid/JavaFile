@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayDemo6",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "LogicalORDemo",
             "request": "launch",
             "mainClass": "LogicalOperator.LogicalORDemo",
