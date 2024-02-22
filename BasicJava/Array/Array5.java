@@ -9,10 +9,11 @@ public class Array5 {
         int[][] B = new int[2][3];
 
         // Geting input for A matrix
-        System.out.print("Enter A:");
+        System.out.println("Enter elements for A matrix");
         for (int row = 0; row < 2; row++) {
 
             for (int col = 0; col < 3; col++) {
+                System.out.printf("A[%d][%d]:",row,col);
                 A[row][col] = input.nextInt();
             }
 
@@ -30,10 +31,11 @@ public class Array5 {
         }
 
         // Geting input for B matrix
-        System.out.print("Enter B:");
+        System.out.println("Enter elements for B matrix");
         for (int row = 0; row < 2; row++) {
 
             for (int col = 0; col < 3; col++) {
+                System.out.printf("B[%d][%d]:",row,col);
                 A[row][col] = input.nextInt();
             }
 
