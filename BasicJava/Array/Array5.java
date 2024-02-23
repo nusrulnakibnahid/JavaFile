@@ -13,7 +13,18 @@ public class Array5 {
         for (int row = 0; row < 2; row++) {
 
             for (int col = 0; col < 3; col++) {
-                System.out.printf("A[%d][%d]:",row,col);
+                System.out.printf("A[%d][%d]:", row, col);
+                A[row][col] = input.nextInt();
+            }
+
+        }
+
+        // Geting input for B matrix
+        System.out.println("Enter elements for B matrix");
+        for (int row = 0; row < 2; row++) {
+
+            for (int col = 0; col < 3; col++) {
+                System.out.printf("B[%d][%d]:", row, col);
                 A[row][col] = input.nextInt();
             }
 
@@ -29,17 +40,7 @@ public class Array5 {
             System.out.println();
 
         }
-
-        // Geting input for B matrix
-        System.out.println("Enter elements for B matrix");
-        for (int row = 0; row < 2; row++) {
-
-            for (int col = 0; col < 3; col++) {
-                System.out.printf("B[%d][%d]:",row,col);
-                A[row][col] = input.nextInt();
-            }
-
-        }
+        System.out.println();
 
         // Geting output for B matrix
         System.out.println("B=");
