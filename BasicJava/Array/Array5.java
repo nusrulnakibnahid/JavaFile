@@ -53,5 +53,17 @@ public class Array5 {
 
         }
 
+        // adding A & B matrix
+
+        System.out.print("A+B=");
+        for (int row = 0; row < 2; row++) {
+            for (int col = 0; col < 3; col++) {
+                System.out.print("\t" + (A[row][col] + B[row][col]));
+
+            }
+            System.out.println();
+
+        }
+
     }
 }
