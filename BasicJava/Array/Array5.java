@@ -1,7 +1,7 @@
 package BasicJava.Array;
 
 import java.util.Scanner;
-
+//Matrix 
 public class Array5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -52,13 +52,51 @@ public class Array5 {
             System.out.println();
 
         }
+        System.out.println();
 
-        // adding A & B matrix
-
+        // Adding A & B matrix
         System.out.print("A+B=");
         for (int row = 0; row < 2; row++) {
             for (int col = 0; col < 3; col++) {
                 System.out.print("\t" + (A[row][col] + B[row][col]));
+
+            }
+            System.out.println();
+
+        }
+        System.out.println();
+
+        // Subtraction A & B matrix
+        System.out.print("A-B=");
+        for (int row = 0; row < 2; row++) {
+            for (int col = 0; col < 3; col++) {
+                System.out.print("\t" + (A[row][col] - B[row][col]));
+
+            }
+            System.out.println();
+
+        }
+        System.out.println();
+
+
+        // Multiplication A & B matrix
+        System.out.print("A*B=");
+        for (int row = 0; row < 2; row++) {
+            for (int col = 0; col < 3; col++) {
+                System.out.print("\t" + (A[row][col] * B[row][col]));
+
+            }
+            System.out.println();
+
+        }
+        System.out.println();
+
+
+        // Division A & B matrix
+        System.out.print("A/B=");
+        for (int row = 0; row < 2; row++) {
+            for (int col = 0; col < 3; col++) {
+                System.out.print("\t" + (A[row][col] / B[row][col]));
 
             }
             System.out.println();
