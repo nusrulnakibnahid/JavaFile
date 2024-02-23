@@ -36,7 +36,7 @@ public class Array5 {
 
             for (int col = 0; col < 3; col++) {
                 System.out.print("\t " + A[row][col]);
-            }
+            } 
             System.out.println();
 
         }
