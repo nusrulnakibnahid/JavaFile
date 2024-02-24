@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "BasicJava.Matrix",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Array5",
             "request": "launch",
             "mainClass": "BasicJava.Array.Array5",
