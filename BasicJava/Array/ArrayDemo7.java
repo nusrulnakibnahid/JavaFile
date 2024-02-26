@@ -7,7 +7,7 @@ public class ArrayDemo7 {
         int k = 0;
 
 
-        
+
         // assing the value of 2D array
         for (int row = 0; row < 4; row++) {
 
