@@ -1,5 +1,5 @@
 package BasicJava.Array;
-
+//Array (find output program)
 public class ArrayDemo7 {
     public static void main(String[] args) {
 
