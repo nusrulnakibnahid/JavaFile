@@ -22,9 +22,10 @@ public class ArrayDemo9 {
             System.out.print(" " + number[i]);
         }
         System.out.println();
+        System.out.println();
 
 
-        
+
         String[] name = { "b", "f", "x", "z", "d" };
         Arrays.sort(name);
 
