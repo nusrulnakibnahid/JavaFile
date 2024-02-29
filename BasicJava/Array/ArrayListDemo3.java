@@ -25,5 +25,12 @@ public class ArrayListDemo3 {
         System.out.println("After Remove Array List Contains Now:" + number);
         System.out.println("Size Now:" + number.size());
 
+        System.out.println();
+        
+       // removing all elements
+        number.removeAll(number);
+        System.out.println("After Remove ALl Array List Contains Now:" + number);
+        System.out.println("Size Now:" + number.size());
+
     }
 }
