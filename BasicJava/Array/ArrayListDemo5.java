@@ -20,12 +20,13 @@ public class ArrayListDemo5 {
         number2.add(80);
         System.out.println("Number 2: " + number2);
 
-        System.out.println();
-
-        //check equality
         number3.addAll(number1);
         System.out.println("Number 3: " + number3);
 
+        System.out.println();
+
+        
+        // check equality
         boolean result = number1.equals(number2);
         System.out.println("Number1 == Number 2: " + result);
 
