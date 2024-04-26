@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringDemo7",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo7",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo6",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo5",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "StringDemo4",
             "request": "launch",
             "mainClass": "BasicJava.String.StringDemo4",
