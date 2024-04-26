@@ -11,10 +11,10 @@ public class StringDemo3 {
         int value = country.codePointAt(ch);
         System.out.println("value:" + value);
 
-        int pos = country.indexof('n');
+        int pos = country.indexOf('n');
         System.out.println("first position of n:" + pos);
 
-        pos = country.lastIndexof('n');
+        pos = country.lastIndexOf('n');
         System.out.println("last position of n:" + pos);
 
         // remove space(first & last)

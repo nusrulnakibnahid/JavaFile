@@ -26,5 +26,6 @@ public class ArrayListDemo6 {
         Collections.sort(number, Collections.reverseOrder());
         System.out.println("After Sorting (descending order):" + number);
         
+        
     }
 }
