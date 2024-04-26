@@ -21,4 +21,5 @@ public class StringDemo3 {
         String s3 = country.trim();
         System.out.println(s3);
     }
+    
 }
