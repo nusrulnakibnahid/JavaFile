@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NCDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.Number_System_Conversion.NCDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Stringdemo8",
+            "request": "launch",
+            "mainClass": "BasicJava.String.Stringdemo8",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "WrapperDemo",
             "request": "launch",
             "mainClass": "BasicJava.WrapperDemo",
