@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CurrentDate",
+            "request": "launch",
+            "mainClass": "BasicJava.Date_Class.CurrentDate",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "DateClass",
+            "request": "launch",
+            "mainClass": "BasicJava.DateClass",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "NCDemo2",
             "request": "launch",
             "mainClass": "BasicJava.Number_System_Conversion.NCDemo2",
