@@ -7,7 +7,7 @@ public class Test {
         Teacher teacher1, teacher2;// object declare
         teacher1 = new Teacher();// create
 
-        teacher1.name = "Md.Rajib Mia";
+        teacher1.name = "Md.Rajib Mia"; 
         teacher1.gender = "Male";
         teacher1.phone = 1234567;
 
