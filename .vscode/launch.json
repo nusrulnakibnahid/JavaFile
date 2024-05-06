@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Asg4",
+            "request": "launch",
+            "mainClass": "Revision.Asg4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "VowelConsonantDemo",
             "request": "launch",
             "mainClass": "BasicJava.VowelConsonantDemo",
