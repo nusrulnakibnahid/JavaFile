@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Series1",
+            "request": "launch",
+            "mainClass": "BasicJava.Series1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Test1",
             "request": "launch",
             "mainClass": "OOP.Method.Test1",
