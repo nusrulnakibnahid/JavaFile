@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Asg14 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);  
 
         int sum = 0, totalPalindromeNumber = 0, m, n, r, temp;
 

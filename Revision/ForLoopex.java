@@ -11,7 +11,7 @@ public class ForLoopex {
         System.out.print("Enter number of terms: ");
          n = input.nextInt(); 
 
-        for(int i=1; i<=n; i++) {
+        for(int i=1; i<=n; i++) { 
             sum=sum+i; 
         }
 
