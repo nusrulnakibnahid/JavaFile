@@ -1,0 +1,2135 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Product2",
+            "request": "launch",
+            "mainClass": "Assignment.Product2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg4",
+            "request": "launch",
+            "mainClass": "Revision.Asg4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonantDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.VowelConsonantDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Series1",
+            "request": "launch",
+            "mainClass": "BasicJava.Series1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "OOP.Method.Test1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "OOP.Test",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "RandomDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.RandomDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "TimeClass",
+            "request": "launch",
+            "mainClass": "BasicJava.TimeClass",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "CurrentDate",
+            "request": "launch",
+            "mainClass": "BasicJava.Date_Class.CurrentDate",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "DateClass",
+            "request": "launch",
+            "mainClass": "BasicJava.DateClass",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "NCDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.Number_System_Conversion.NCDemo2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "NCDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.Number_System_Conversion.NCDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Stringdemo8",
+            "request": "launch",
+            "mainClass": "BasicJava.String.Stringdemo8",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.WrapperDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo7",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo7",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo6",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo5",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo4",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Assignment.Product",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment10",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment10",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo1",
+            "request": "launch",
+            "mainClass": "BasicJava.String.StringDemo1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo6",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayListDemo6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo5",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayListDemo5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo4",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayListDemo4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayListDemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayListDemo2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo1",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayListDemo1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo9",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo9",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo8",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo8",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo7",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo7",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "BasicJava.Matrix",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Array5",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.Array5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx3",
+            "request": "launch",
+            "mainClass": "BasicJava.ArrayEx3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx2",
+            "request": "launch",
+            "mainClass": "Revision.ArrayEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo6",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "LogicalORDemo",
+            "request": "launch",
+            "mainClass": "LogicalOperator.LogicalORDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Format",
+            "request": "launch",
+            "mainClass": "FormatSpecifeir.Format",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment18",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment18",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo5",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "LogicalAndDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.LogicalOperator.LogicalAndDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx",
+            "request": "launch",
+            "mainClass": "Revision.ArrayEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo4",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "NameRepeatEx",
+            "request": "launch",
+            "mainClass": "Revision.NameRepeatEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "RemainderEx",
+            "request": "launch",
+            "mainClass": "Revision.RemainderEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "DivisionEx",
+            "request": "launch",
+            "mainClass": "Revision.DivisionEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicatioEx",
+            "request": "launch",
+            "mainClass": "Revision.MultiplicatioEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "AttendanceSystem",
+            "request": "launch",
+            "mainClass": "Revision.AttendanceSystem",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo1",
+            "request": "launch",
+            "mainClass": "BasicJava.Array.ArrayDemo1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg17",
+            "request": "launch",
+            "mainClass": "Revision.Asg17",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SubEx",
+            "request": "launch",
+            "mainClass": "Revision.SubEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SumEx",
+            "request": "launch",
+            "mainClass": "Revision.SumEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo15",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo15",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo14",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo14",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo13",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo13",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo12",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo12",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo11",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo11",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo10",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo10",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo8",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo8",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo7",
+            "request": "launch",
+            "mainClass": "BasicJava.Pattern_Code.PatternDemo7",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo6",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo5",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo4",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternEx",
+            "request": "launch",
+            "mainClass": "Revision.PatternEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternEx3",
+            "request": "launch",
+            "mainClass": "Revision.PatternEx3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternEx2",
+            "request": "launch",
+            "mainClass": "Revision.PatternEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PatternEx1",
+            "request": "launch",
+            "mainClass": "Revision.PatternEx1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment16",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment16",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg16",
+            "request": "launch",
+            "mainClass": "Revision.Asg16",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment15",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment15",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg15",
+            "request": "launch",
+            "mainClass": "Revision.Asg15",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongEx",
+            "request": "launch",
+            "mainClass": "Revision.ArmstrongEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg14",
+            "request": "launch",
+            "mainClass": "Revision.Asg14",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment14",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment14",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumEx",
+            "request": "launch",
+            "mainClass": "Revision.PalindromeNumEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumEx",
+            "request": "launch",
+            "mainClass": "Revision.ReverseNumEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SumDigitEx",
+            "request": "launch",
+            "mainClass": "Revision.SumDigitEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg13",
+            "request": "launch",
+            "mainClass": "Revision.Asg13",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment13",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment13",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciEx",
+            "request": "launch",
+            "mainClass": "Revision.FibonacciEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberdemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberdemo3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PrimeEx3",
+            "request": "launch",
+            "mainClass": "Revision.PrimeEx3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PrimeEx2",
+            "request": "launch",
+            "mainClass": "Revision.PrimeEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "TimeTableEx2",
+            "request": "launch",
+            "mainClass": "Revision.TimeTableEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "PrimeEx",
+            "request": "launch",
+            "mainClass": "Revision.PrimeEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "TimeTableEx",
+            "request": "launch",
+            "mainClass": "Revision.TimeTableEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "FactorialEx",
+            "request": "launch",
+            "mainClass": "Revision.FactorialEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEx6",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEX5",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEX5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEx4",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx4",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEx3",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEx2",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SeriesEx1",
+            "request": "launch",
+            "mainClass": "Revision.SeriesEx1",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Sum1to10",
+            "request": "launch",
+            "mainClass": "Revision.Sum1to10",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ContinueEx2",
+            "request": "launch",
+            "mainClass": "Revision.ContinueEx2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg12",
+            "request": "launch",
+            "mainClass": "Revision.Asg12",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg11",
+            "request": "launch",
+            "mainClass": "Revision.Asg11",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ContinueBreakEx",
+            "request": "launch",
+            "mainClass": "Revision.ContinueBreakEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ContinueEx",
+            "request": "launch",
+            "mainClass": "Revision.ContinueEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Revision.Continue",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "BreakEx",
+            "request": "launch",
+            "mainClass": "Revision.BreakEx",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Revision.Break",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopex2",
+            "request": "launch",
+            "mainClass": "Revision.ForLoopex2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopex",
+            "request": "launch",
+            "mainClass": "Revision.ForLoopex",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg10",
+            "request": "launch",
+            "mainClass": "Revision.Asg10",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "Revision.DoWhileLoop",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "Revision.WhileLoop",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "Revision.ForLoop",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.ForLoopDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "MathClassDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.MathClassDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperatorDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.BitwiseOperatorDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ConditionalDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg9",
+            "request": "launch",
+            "mainClass": "Revision.Asg9",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "Revision.SwitchCase",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg8",
+            "request": "launch",
+            "mainClass": "Revision.Asg8",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg7",
+            "request": "launch",
+            "mainClass": "Revision.Asg7",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonant",
+            "request": "launch",
+            "mainClass": "Practice.VowelConsonant",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "CapitalSmall",
+            "request": "launch",
+            "mainClass": "BasicJava.CapitalSmall",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg6",
+            "request": "launch",
+            "mainClass": "Revision.Asg6",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddCheck",
+            "request": "launch",
+            "mainClass": "Revision.EvenOddCheck",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "Revision.IfElse",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "IfDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Selection.IfDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDecrement",
+            "request": "launch",
+            "mainClass": "Practice.IncrementDecrement",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusMinus",
+            "request": "launch",
+            "mainClass": "Revision.UnaryPlusMinus",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusMinus",
+            "request": "launch",
+            "mainClass": "Practice.UnaryPlusMinus",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.UnaryPlusDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusToFAhrenheit",
+            "request": "launch",
+            "mainClass": "Revision.CelsiusToFAhrenheit",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "AreaCircle",
+            "request": "launch",
+            "mainClass": "Revision.AreaCircle",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "AreaTringle",
+            "request": "launch",
+            "mainClass": "Revision.AreaTringle",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.AssignmentDemo",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Asg5",
+            "request": "launch",
+            "mainClass": "Revision.Asg5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Product3",
+            "request": "launch",
+            "mainClass": "Revision.Product3",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "GetInputFromUser",
+            "request": "launch",
+            "mainClass": "Revision.GetInputFromUser",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Product2",
+            "request": "launch",
+            "mainClass": "Revision.Product2",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "Revision.product",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Revision.Hello",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "BasicJava.Hello",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "Assignment17",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment17",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PatternDemo1",
+            "request": "launch",
+            "mainClass": "BasicJava.PatternDemo1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "UserPassCheck",
+            "request": "launch",
+            "mainClass": "Practice.UserPassCheck",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment16",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment16",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment15",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment15",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumberDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ArmstrongNumberDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment14",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment14",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.PalindromeDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumberDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ReverseNumberDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.SumOfDigitDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment13",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment13",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeriesDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.FibonacciSeriesDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberdemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberdemo3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.PrimeNumberDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TotalMarkPersentage",
+            "request": "launch",
+            "mainClass": "Practice.TotalMarkPersentage",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TimeTableDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.TimeTableDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TimeTableDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.TimeTableDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "FactorialDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.FactorialDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series9",
+            "request": "launch",
+            "mainClass": "BasicJava.Series9",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series8",
+            "request": "launch",
+            "mainClass": "BasicJava.Series8",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series7",
+            "request": "launch",
+            "mainClass": "BasicJava.Series7",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series6",
+            "request": "launch",
+            "mainClass": "BasicJava.Series6",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series5",
+            "request": "launch",
+            "mainClass": "BasicJava.Series5",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series4",
+            "request": "launch",
+            "mainClass": "Assignment.Series4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series3",
+            "request": "launch",
+            "mainClass": "Assignment.Series3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series2",
+            "request": "launch",
+            "mainClass": "BasicJava.Series2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Series1",
+            "request": "launch",
+            "mainClass": "BasicJava.Series1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop4",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop4",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop4",
+            "request": "launch",
+            "mainClass": "BasicJava.ForLoop4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop3",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop3",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop3",
+            "request": "launch",
+            "mainClass": "BasicJava.ForLoop3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop2",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop2",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop2",
+            "request": "launch",
+            "mainClass": "BasicJava.ForLoop2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop1",
+            "request": "launch",
+            "mainClass": "BasicJava.DoWhileLoop1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop1",
+            "request": "launch",
+            "mainClass": "BasicJava.WhileLoop1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Loop1",
+            "request": "launch",
+            "mainClass": "BasicJava.Loop1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment12",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment12",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment11",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment11",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinueExample",
+            "request": "launch",
+            "mainClass": "Practice.BreakContinueExample",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatementExample2",
+            "request": "launch",
+            "mainClass": "Control_Statement.Jump.ContinueStatementExample2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatementExample1",
+            "request": "launch",
+            "mainClass": "Control_Statement.Jump.ContinueStatementExample1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BreakExample1",
+            "request": "launch",
+            "mainClass": "Control_Statement.Jump.BreakExample1",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Practice.Break",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopPractice",
+            "request": "launch",
+            "mainClass": "Practice.ForLoopPractice",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SubUseForLoop",
+            "request": "launch",
+            "mainClass": "Practice.SubUseForLoop",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment10",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment10",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileVSDoWhile",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.WhileVSDoWhile",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoopDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.DoWhileLoopDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.WhileLoopDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopDemo2",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.ForLoopDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "OddNum",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.OddNum",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "EvenNum",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.EvenNum",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Looping.ForLoopDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MathClassDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.MathClassDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MathClassDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.MathClassDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperatorDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.BitwiseOperatorDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperatorDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.BitwiseOperatorDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ConditionalDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment9",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment9",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.Selection.SwitchDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SpecifiedExpression",
+            "request": "launch",
+            "mainClass": "Practice.SpecifiedExpression",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumber",
+            "request": "launch",
+            "mainClass": "Practice.NaturalNumber",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "JavaPattern",
+            "request": "launch",
+            "mainClass": "Practice.JavaPattern",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1015",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1015",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "AbsoluteValue",
+            "request": "launch",
+            "mainClass": "Practice.AbsoluteValue",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ProfitOrLoss",
+            "request": "launch",
+            "mainClass": "Practice.ProfitOrLoss",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TriangleValidOrNot",
+            "request": "launch",
+            "mainClass": "Practice.TriangleValidOrNot",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MedicalCaseOrNot",
+            "request": "launch",
+            "mainClass": "Practice.MedicalCaseOrNot",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1014",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1014",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1013",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1013",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleNumber",
+            "request": "launch",
+            "mainClass": "Practice.DivisibleNumber",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SameNumOrNot",
+            "request": "launch",
+            "mainClass": "Practice.SameNumOrNot",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "WeekdayName",
+            "request": "launch",
+            "mainClass": "Practice.WeekdayName",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1012",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1012",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1011",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1011",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1010",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1010",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment8",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment8",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment7",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment7",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "LogicalAndDemo",
+            "request": "launch",
+            "mainClass": "LogicalOperator.LogicalAndDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "LogicalORDemo",
+            "request": "launch",
+            "mainClass": "LogicalOperator.LogicalORDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "LeepYear",
+            "request": "launch",
+            "mainClass": "BasicJava.LeepYear",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MaximumMinimum",
+            "request": "launch",
+            "mainClass": "Practice.MaximumMinimum",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "MaximumMinimum",
+            "request": "launch",
+            "mainClass": "BasicJava.MaximumMinimum",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "CapitalSmall",
+            "request": "launch",
+            "mainClass": "BasicJava.CapitalSmall",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNegativeZero",
+            "request": "launch",
+            "mainClass": "BasicJava.PositiveNegativeZero",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonant",
+            "request": "launch",
+            "mainClass": "Practice.VowelConsonant",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonantDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.VowelConsonantDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment6",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment6",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd_Demo",
+            "request": "launch",
+            "mainClass": "BasicJava.EvenOdd_Demo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.EvenOddDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Grading",
+            "request": "launch",
+            "mainClass": "Practice.Grading",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeBonus",
+            "request": "launch",
+            "mainClass": "Practice.EmployeeBonus",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "GreatestNumber",
+            "request": "launch",
+            "mainClass": "Practice.GreatestNumber",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "GradingSystem",
+            "request": "launch",
+            "mainClass": "BasicJava.GradingSystem",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Assignment5",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment5",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ElseIfLadderDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.ElseIfLadderDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IfElseDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.IfElseDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IfDemo",
+            "request": "launch",
+            "mainClass": "Control_Statement.IfDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1009",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1009",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDecrement",
+            "request": "launch",
+            "mainClass": "Practice.IncrementDecrement",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PostDecrement",
+            "request": "launch",
+            "mainClass": "BasicJava.PostDecrement",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PreDecrement",
+            "request": "launch",
+            "mainClass": "BasicJava.PreDecrement",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "PreIncrementDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.PreIncrementDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.IncrementDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusMinus",
+            "request": "launch",
+            "mainClass": "Practice.UnaryPlusMinus",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "UnaryMinusDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.UnaryMinusDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "UnaryPlusDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.UnaryPlusDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1008",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1008",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ABC",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.ABC",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1007",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1007",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1006",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1006",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1005",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1005",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1003",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1003",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "emni",
+            "request": "launch",
+            "mainClass": "Practice.emni",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1002",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1002",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Problem1001",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Problem1001",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Beecrowd_Problem_Solving.Hello",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice7",
+            "request": "launch",
+            "mainClass": "Practice.Practice7",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "HexagonPerimeter",
+            "request": "launch",
+            "mainClass": "BasicJava.HexagonPerimeter",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "HighestValue",
+            "request": "launch",
+            "mainClass": "Practice.HighestValue",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "AverageNumber",
+            "request": "launch",
+            "mainClass": "Practice.AverageNumber",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "SmallestValue",
+            "request": "launch",
+            "mainClass": "Practice.SmallestValue",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "KitePerimeter",
+            "request": "launch",
+            "mainClass": "BasicJava.KitePerimeter",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePerimeter",
+            "request": "launch",
+            "mainClass": "BasicJava.TrianglePerimeter",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "EllipseArea",
+            "request": "launch",
+            "mainClass": "BasicJava.EllipseArea",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "TrapezoidArea",
+            "request": "launch",
+            "mainClass": "BasicJava.TrapezoidArea",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "RectangleArea",
+            "request": "launch",
+            "mainClass": "BasicJava.RectangleArea",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.FahrenheitDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.CelsiusDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "CircleDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.CircleDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice6",
+            "request": "launch",
+            "mainClass": "Practice.Practice6",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.AssignmentDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Assignment4",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Assignment.Product",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Product2",
+            "request": "launch",
+            "mainClass": "Assignment.Product2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Product3",
+            "request": "launch",
+            "mainClass": "Assignment.Product3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.ArithmeticDemo3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BioData",
+            "request": "launch",
+            "mainClass": "BasicJava.BioData",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "BioData2",
+            "request": "launch",
+            "mainClass": "BasicJava.BioData2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "CommentDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.CommentDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo2",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo3",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo4",
+            "request": "launch",
+            "mainClass": "BasicJava.InputDemo4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "DataType.DataType",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "DataType2",
+            "request": "launch",
+            "mainClass": "DataType.DataType2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "ExecutionStep",
+            "request": "launch",
+            "mainClass": "ExecutionStep.ExecutionStep",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Format",
+            "request": "launch",
+            "mainClass": "FormatSpecifeir.Format",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice.Practice",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "Practice.Practice2",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice3",
+            "request": "launch",
+            "mainClass": "Practice.Practice3",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice4",
+            "request": "launch",
+            "mainClass": "Practice.Practice4",
+            "projectName": "Java (VS Code)_52becb56"
+        },
+        {
+            "type": "java",
+            "name": "Practice5",
+            "request": "launch",
+            "mainClass": "Practice.Practice5",
+            "projectName": "Java (VS Code)_52becb56"
+        }
+    ]
+}
