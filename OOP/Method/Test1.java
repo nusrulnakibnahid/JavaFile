@@ -1,4 +1,3 @@
-package OOP.Method;
 public class Test1 {
     public static void main(String[] args) {
         Teacher1 teacher1, teacher2;// object declare
