@@ -6,7 +6,7 @@ public class Teacher1 {
     void displayInformation(){
 
         System.out.println("Teacher name: "+name);
-        System.out.println("Gender:"+gender);
+        System.out.println("Gender:"+gender);  
         System.out.println("Phone number: "+phone);
     }
 }
