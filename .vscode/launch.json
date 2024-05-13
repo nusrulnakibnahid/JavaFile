@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice5",
+            "request": "launch",
+            "mainClass": "Practice.Practice5",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinueExample",
+            "request": "launch",
+            "mainClass": "Practice.BreakContinueExample",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Test1",
             "request": "launch",
             "mainClass": "Test1",

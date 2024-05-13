@@ -7,7 +7,7 @@ public class AbsoluteValue {
         Scanner input = new Scanner(System.in);
 
         int num;
-        System.out.print("Enter a number: ");
+        System.out.print("Enter a number: ");  
         num = input.nextInt();
 
         num = (-1)*num;
