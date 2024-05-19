@@ -1,6 +1,6 @@
 package OOP.Method;
 
-//Parametrised Method in a class
+//Parametrised Method in a class ((it's connect with StudentTest.java))
 public class Student {
     String name, gender;
     int id;

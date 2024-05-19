@@ -1,5 +1,6 @@
 package OOP.Method;
 
+//Parametrised Method in a class (it's connect with Student.java)
 public class StudentTest {
     public static void main(String[] args) {
         Student student1, student2;
