@@ -1,4 +1,5 @@
-//method inside a class
+package OOP.Method;
+
 public class Teacher1 {
     String name,gender;
     int phone;
