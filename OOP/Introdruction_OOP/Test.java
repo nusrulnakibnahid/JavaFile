@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Introdruction_OOP;
 
 //class & objects
 public class Test {
