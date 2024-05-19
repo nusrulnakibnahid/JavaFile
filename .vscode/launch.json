@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentTest",
+            "request": "launch",
+            "mainClass": "OOP.Method.StudentTest",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
             "name": "Test1",
             "request": "launch",
             "mainClass": "OOP.Method_in_Class.Test1",
