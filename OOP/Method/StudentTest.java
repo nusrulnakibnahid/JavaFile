@@ -1,6 +1,6 @@
 package OOP.Method;
 
-public class TestStudent {
+public class StudentTest {
     public static void main(String[] args) {
         Student student1,student2;
 
