@@ -8,6 +8,13 @@
             "type": "java",
             "name": "StudentTest",
             "request": "launch",
+            "mainClass": "OOP.Constructor.StudentTest",
+            "projectName": "Java (VS Code)_d94485f5"
+        },
+        {
+            "type": "java",
+            "name": "StudentTest",
+            "request": "launch",
             "mainClass": "OOP.Method.StudentTest",
             "projectName": "Java (VS Code)_d94485f5"
         },
