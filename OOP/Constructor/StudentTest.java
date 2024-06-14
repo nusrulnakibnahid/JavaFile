@@ -8,7 +8,7 @@ public class StudentTest {
         Student1 student2 = new Student1("Nakid", "male", 04);
         student2.displayInfomation();
 
-        
+          
     }
     
 }
